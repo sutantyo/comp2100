@@ -7,4 +7,4 @@
 
 ![alt text](img/mondrian.jpg)
 
-<center><img src="/img/mondrian.jpg"></center>
+<p align="center"><img src="/img/mondrian.jpg"></p>
