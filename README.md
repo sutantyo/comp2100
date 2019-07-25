@@ -6,3 +6,5 @@
 ![alt text](img/Sans Titre Piet Mondrian.jpg)
 
 ![alt text](img/mondrian.jpg)
+
+<center><img src="/img/mondrian.jpg"></center>
